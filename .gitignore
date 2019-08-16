@@ -7,3 +7,8 @@ venv
 db/
 
 *.sh
+
+proxy/mp4
+
+proxy/logs
+
