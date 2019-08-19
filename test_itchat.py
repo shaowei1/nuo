@@ -20,7 +20,7 @@ zhfont1 = matplotlib.font_manager.FontProperties(fname='/usr/share/fonts/truetyp
 fontP = matplotlib.font_manager.FontProperties()
 fontP.set_family('SimHei')
 fontP.set_size(14)
-
+rName = '你的95班'
 def chatProportion(rName):
     itchat.auto_login(True)
     male = female = other = 0
@@ -39,6 +39,8 @@ def chatProportion(rName):
             dis = friend['DisplayName']
             nick = friend['NickName']
             sex = friend['Sex']
+            city = friend['City']
+            print(sex, city, nick)
             if sex == 1:
                 male += 1
             elif sex == 2:
@@ -101,7 +103,9 @@ def getInfo():
         for friend in mem_list:
             sex = friend['Sex']
             city = friend['City']
-
+            print(city)
+            print(sex)
+            print(friend)
             per_info = {
                 'city': None,
                 'sex': None
@@ -184,6 +188,7 @@ def cityData(rName):
 
 
 if __name__ == "__main__":
-    # chatProportion(rName)
-    rName = 'Python私房菜'
-    cityData(rName)
+    rName = '你的95班'
+    chatProportion(rName)
+
+    # cityData(rName)
