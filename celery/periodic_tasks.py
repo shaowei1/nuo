@@ -42,5 +42,24 @@ def setup_periodic_tasks(sender, **kwargs):
     # http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html
 
 
+import schedule
+import time
+
+job = say
+# SQLAlchemy if update field equal original field will not execute update
+
+
+# schedule.every(2).seconds.do(job)
+# schedule.every(10).minutes.do(job)
+# schedule.every().hour.do(job)
+schedule.every().day.at("10:30").do(job)
+# schedule.every().monday.do(job)
+# schedule.every().wednesday.at("13:15").do(job)
+# schedule.every().minute.at(":17").do(job)
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+
 if __name__ == '__main__':
     app.start()

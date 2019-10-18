@@ -1,1 +1,486 @@
-<itemParam><field id="infos" name="信息" type="label"/><field id="item_type" name="发布类型" type="singleCheck"><value>b</value></field><field id="lang" name="商品文字的字符集" type="singleCheck"><value/></field><field id="sell_points" name="商品卖点" type="complex"><complex-values/></field><field id="item_attach_images" name="商品资质图片" type="complex"><complex-values><field id="attach_52" type="input"><value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN01nrzvxl2K6iJECBZ77_!!3402409508.jpg</value></field><field id="attach_51" type="input"><value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN018UYoqH2K6iJDzknA3_!!3402409508.jpg</value></field></complex-values></field><field id="item_images" name="商品图片" type="complex"><complex-values><field id="item_image_0" type="input"><value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN01rsVp5N2K6iJEbXFqh_!!3402409508.jpg</value></field></complex-values></field><field id="item_wireless_images" name="商品无线图片" type="complex"><complex-values/></field><field id="price" name="商品价格" type="input"><value>1000</value></field><field id="quantity" name="商品数量" type="input"><value>2</value></field><field id="vertical_image" name="商品竖图" type="input"><value>https://img.alicdn.com/imgextra/i3/3402409508/O1CN01ddr1WX2K6iJA57PS9_!!3402409508.jpg</value></field><field id="white_bg_image" name="透明素材图" type="input"><value>https://img.alicdn.com/imgextra/i2/3402409508/O1CN01XMGu1M2K6iJDNyXSf_!!3402409508.png</value></field><field id="description" name="商品描述" type="complex"><complex-values><field id="desc_module_user_mods" type="multiComplex"><complex-values><field id="desc_module_user_mod_name" type="input"><value>陌速顶1</value></field><field id="desc_module_user_mod_content" type="input"><value>&lt;div style="width:790.0px; margin-top:-1px;"&gt;&lt;img  usemap="#2a829326-7d08-4059-863e-453ef7609a77"style="display:block" src="https://img.alicdn.com/imgextra/i4/3402409508/O1CN01INzNgA2K6iJCsnavb_!!3402409508.jpg" /&gt;&lt;map name="2a829326-7d08-4059-863e-453ef7609a77"&gt;&lt;area shape="rect" target="_blank" coords="160.0,127.0,596.0,284.0" href="https://detail.tmall.com/item.htm?id=591592566327&amp;spm=2015.24528051.0.0"&gt;&lt;/map&gt;&lt;/div&gt;</value></field><field id="desc_module_user_mod_order" type="input"><value>0</value></field></complex-values><complex-values><field id="desc_module_user_mod_name" type="input"><value>产品海报</value></field><field id="desc_module_user_mod_content" type="input"><value>&lt;div style="width:790.0px; margin-top:-1px;"&gt;&lt;img style="display:block" src="https://img.alicdn.com/imgextra/i4/3402409508/O1CN01pXGwpc2K6iJBsLnVe_!!3402409508.jpg" /&gt;&lt;img style="display:block" src="https://img.alicdn.com/imgextra/i3/3402409508/O1CN01CgrwV22K6iJEbZKoY_!!3402409508.jpg" /&gt;&lt;/div&gt;</value></field><field id="desc_module_user_mod_order" type="input"><value>1</value></field></complex-values><complex-values><field id="desc_module_user_mod_name" type="input"><value>商品信息</value></field><field id="desc_module_user_mod_content" type="input"><value>&lt;div style="width:790.0px; margin-top:-1px;"&gt;&lt;img style="display:block" src="https://img.alicdn.com/imgextra/i2/3402409508/O1CN01UeaZy52K6iJ9Ixjsg_!!3402409508.jpg" /&gt;&lt;img style="display:block" src="https://img.alicdn.com/imgextra/i3/3402409508/O1CN01iYbkSv2K6iJBF2cit_!!3402409508.jpg" /&gt;&lt;img style="display:block" src="https://img.alicdn.com/imgextra/i3/3402409508/O1CN01KMmBEY2K6iJBsO4sn_!!3402409508.jpg" /&gt;&lt;/div&gt;</value></field><field id="desc_module_user_mod_order" type="input"><value>2</value></field></complex-values></field></complex-values></field><field id="inner_shop" name="页面模板-淘宝店铺" type="singleCheck"><value/></field><field id="outer_shop" name="页面模板-官方网店" type="singleCheck"><value/></field><field id="seller_cids" name="商品所属的店铺类目列表" type="multiCheck"><values/></field><field id="delivery_way" name="提取方式" type="multiCheck"><values><value>2</value></values></field><field id="freight_payer" name="运费承担方式" type="singleCheck"><value>2</value></field><field id="freight_by_buyer" name="买家承担运费" type="singleCheck"><value/></field><field id="freight" name="运费" type="complex"><complex-values/></field><field id="postage_id" name="运费模板ID" type="input"><value/></field><field id="locality_life.expirydate" name="有效期" type="singleCheck"><value/></field><field id="locality_life.expirydate.startend" name="有效期按时间区间" type="complex"><complex-values/></field><field id="locality_life.expirydate.end" name="有效期按购买日起时间区间" type="input"><value/></field><field id="locality_life.expirydate.severalDays" name="有效期按购买日起有效天数区间" type="input"><value/></field><field id="locality_life.network_id" name="网点id" type="input"><value/></field><field id="locality_life.merchant" name="码商" type="complex"><complex-values/></field><field id="auto_refund" name="自动退款" type="complex"><complex-values/></field><field id="expired_refund" name="过期退款" type="complex"><complex-values/></field><field id="locality_life.verification" name="核销打款" type="singleCheck"><value/></field><field id="has_invoice" name="发票" type="singleCheck"><value>true</value></field><field id="has_warranty" name="保修" type="singleCheck"><value>false</value></field><field id="sell_promise" name="退换货服务" type="singleCheck"><value>false</value></field><field id="sub_stock" name="拍下减库存" type="singleCheck"><value>true</value></field><field id="location" name="所在地" type="complex"><complex-values><field id="city" type="input"><value>嘉兴</value></field><field id="prov" type="input"><value>浙江</value></field></complex-values></field><field id="after_sale_id" name="售后说明模板ID" type="input"><value/></field><field id="outer_id" name="商家外部编码" type="input"><value>快麦-卫衣-陌测试</value></field><field id="has_discount" name="是否支持会员折扣" type="singleCheck"><value>false</value></field><field id="second_kill" name="商品秒杀" type="multiCheck"><values/></field><field id="size_measure_image" name="尺码测量示意图" type="singleCheck"><value>https://img.alicdn.com/imgextra/i3/TB1vjOdHXXXXXXeXVXXXXXXXXXX_!!0-item_pic.jpg</value></field><field id="size_model_try" name="尺码模特试穿表" type="multiComplex"/><field id="item_size_weight" name="商品物流重量体积" type="complex"><complex-values/></field><field id="auction_point" name="返点比例" type="input"><value>0.5</value></field><field id="is_xinpin" name="是否新品" type="singleCheck"><value>true</value></field><field id="is_taobao" name="是否在淘宝和天猫显示" type="singleCheck"><value/></field><field id="is_ex" name="是否在外店显示" type="singleCheck"><value/></field><field id="is_3D" name="是否是3D" type="singleCheck"><value/></field><field id="service_version" name="天猫系统服务版本" type="input"><value>11100</value></field><field id="prop_122276315" name="款式" type="singleCheck"><value>103422</value></field><field id="prop_122216586" name="版型" type="singleCheck"><value/></field><field id="in_prop_122216586" name="版型" type="input"><value/></field><field id="prop_20663" name="领型" type="singleCheck"><value/></field><field id="in_prop_20663" name="领型" type="input"><value/></field><field id="prop_20608" name="风格" type="singleCheck"><value/></field><field id="in_prop_20608" name="风格" type="input"><value/></field><field id="prop_20551" name="面料分类" type="singleCheck"><value/></field><field id="in_prop_20551" name="面料分类" type="input"><value/></field><field id="prop_2917380" name="袖型" type="singleCheck"><value/></field><field id="in_prop_2917380" name="袖型" type="input"><value/></field><field id="prop_20603" name="图案" type="singleCheck"><value>46649</value></field><field id="in_prop_20603" name="图案" type="input"><value/></field><field id="prop_122216345" name="适用季节" type="singleCheck"><value/></field><field id="in_prop_122216345" name="适用季节" type="input"><value/></field><field id="prop_122216515" name="适用场景" type="singleCheck"><value/></field><field id="in_prop_122216515" name="适用场景" type="input"><value/></field><field id="prop_122216608" name="适用对象" type="singleCheck"><value/></field><field id="in_prop_122216608" name="适用对象" type="input"><value/></field><field id="prop_31611" name="衣门襟" type="singleCheck"><value/></field><field id="in_prop_31611" name="衣门襟" type="input"><value/></field><field id="prop_122276336" name="服装口袋样式" type="singleCheck"><value/></field><field id="in_prop_122276336" name="服装口袋样式" type="input"><value/></field><field id="prop_122216588" name="服装款式细节" type="singleCheck"><value/></field><field id="in_prop_122216588" name="服装款式细节" type="input"><value/></field><field id="prop_122216507" name="厚薄" type="singleCheck"><value/></field><field id="in_prop_122216507" name="厚薄" type="input"><value/></field><field id="prop_42722636" name="基础风格" type="singleCheck"><value>248572013</value></field><field id="prop_42718685" name="细分风格" type="singleCheck"><value/></field><field id="prop_122216589" name="服饰工艺" type="singleCheck"><value/></field><field id="prop_extend_1627207" name="颜色扩展" type="multiComplex"><complex-values><field id="prop_image" type="input"><value>https://img.alicdn.com/imgextra/i2/3402409508/O1CN01FpGdl42K6iJ4lBICs_!!3402409508.jpg</value></field><field id="basecolor" type="multiCheck"><values><value>28320</value></values></field><field id="in_prop_1627207" type="input"><value>白色</value></field></complex-values><complex-values><field id="prop_image" type="input"><value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN012ejok32K6iJDO056y_!!3402409508.jpg</value></field><field id="basecolor" type="multiCheck"><values><value>28341</value></values></field><field id="in_prop_1627207" type="input"><value>黑色</value></field></complex-values></field><field id="std_size_group" name="尺码分组" type="singleCheck"><value>-1:自定义:-1</value></field><field id="std_size_extends_20509" name="尺码扩展" type="multiComplex"><complex-values><field id="size_mapping_xiongwei" type="input"><value>100</value></field><field id="size_mapping_beikuan" type="input"><value>100</value></field><field id="size_mapping_xiabaiwei" type="input"><value>100</value></field><field id="size_mapping_qianchang" type="input"><value>100</value></field><field id="size_mapping_xiukou" type="input"><value>100</value></field><field id="size_mapping_tizhong" type="input"><value>100</value></field><field id="size_mapping_jiankuan" type="input"><value>100</value></field><field id="size_mapping_yichang" type="input"><value>100</value></field><field id="size_mapping_xiufei" type="input"><value>100</value></field><field id="size_mapping_lingshen" type="input"><value>100</value></field><field id="size_mapping_zhongyao" type="input"><value>100</value></field><field id="size_mapping_linggao" type="input"><value>100</value></field><field id="size_mapping_lingkuan" type="input"><value>100</value></field><field id="size_mapping_xiuchang" type="input"><value>100</value></field><field id="size_mapping_lingwei" type="input"><value>100</value></field><field id="size_mapping_shengao" type="input"><value>100</value></field><field id="size_mapping_-1" type="complex"><complex-values><field id="size_mapping_-1_value" type="input"><value>50</value></field><field id="size_mapping_-1_name" type="input"><value>ceshi</value></field></complex-values></field><field id="size_mapping_baiwei" type="input"><value>100</value></field><field id="size_mapping_-4" type="complex"><complex-values/></field><field id="std_size_prop_20509_-1" type="input"><value>666</value></field><field id="size_mapping_-5" type="complex"><complex-values/></field><field id="size_mapping_-2" type="complex"><complex-values/></field><field id="size_mapping_yaowei" type="input"><value>100</value></field><field id="size_mapping_-3" type="complex"><complex-values/></field></complex-values></field><field id="size_mapping_template_id" name="尺码表填充模板ID" type="input"><value/></field><field id="main_video" name="主图视频" type="complex"><complex-values/></field><field id="sku" name="SKU" type="multiComplex"><complex-values><field id="sku_ProductCode" type="input"><value>快麦-卫衣-陌测试</value></field><field id="sku_MarketTime" type="input"><value>2019-04-30</value></field><field id="sku_price" type="input"><value>1000</value></field><field id="in_prop_1627207" type="input"><value>白色</value></field><field id="std_size_prop_20509_-1" type="input"><value>666</value></field><field id="sku_quantity" type="input"><value>1</value></field></complex-values><complex-values><field id="sku_ProductCode" type="input"><value>快麦-卫衣-陌测试</value></field><field id="sku_MarketTime" type="input"><value>2019-04-30</value></field><field id="sku_price" type="input"><value>1000</value></field><field id="in_prop_1627207" type="input"><value>黑色</value></field><field id="std_size_prop_20509_-1" type="input"><value>666</value></field><field id="sku_quantity" type="input"><value>1</value></field></complex-values></field><field id="three_to_four_item_images" name="3:4商品图片" type="complex"><complex-values/></field><field id="image_video_type" name="主图视频比例" type="singleCheck"><value/></field><field id="barcode" name="条形码" type="input"><value/></field><field id="item_status" name="商品状态" type="singleCheck"><value>2</value></field><field id="start_time" name="开始时间" type="input"><value/></field><field id="wireless_desc" name="旺铺无线详情描述" type="complex"><complex-values/></field><field id="title" name="商品标题" type="input"><value>快麦-卫衣-陌测试</value></field></itemParam>
+<itemParam>
+    <field id="infos" name="信息" type="label"/>
+    <field id="item_type" name="发布类型" type="singleCheck">
+        <value>b</value>
+    </field>
+    <field id="lang" name="商品文字的字符集" type="singleCheck">
+        <value/>
+    </field>
+    <field id="sell_points" name="商品卖点" type="complex">
+        <complex-values/>
+    </field>
+    <field id="item_attach_images" name="商品资质图片" type="complex">
+        <complex-values>
+            <field id="attach_52" type="input">
+                <value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN01nrzvxl2K6iJECBZ77_!!3402409508.jpg</value>
+            </field>
+            <field id="attach_51" type="input">
+                <value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN018UYoqH2K6iJDzknA3_!!3402409508.jpg</value>
+            </field>
+        </complex-values>
+    </field>
+    <field id="item_images" name="商品图片" type="complex">
+        <complex-values>
+            <field id="item_image_0" type="input">
+                <value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN01rsVp5N2K6iJEbXFqh_!!3402409508.jpg</value>
+            </field>
+        </complex-values>
+    </field>
+    <field id="item_wireless_images" name="商品无线图片" type="complex">
+        <complex-values/>
+    </field>
+    <field id="price" name="商品价格" type="input">
+        <value>1000</value>
+    </field>
+    <field id="quantity" name="商品数量" type="input">
+        <value>2</value>
+    </field>
+    <field id="vertical_image" name="商品竖图" type="input">
+        <value>https://img.alicdn.com/imgextra/i3/3402409508/O1CN01ddr1WX2K6iJA57PS9_!!3402409508.jpg</value>
+    </field>
+    <field id="white_bg_image" name="透明素材图" type="input">
+        <value>https://img.alicdn.com/imgextra/i2/3402409508/O1CN01XMGu1M2K6iJDNyXSf_!!3402409508.png</value>
+    </field>
+    <field id="description" name="商品描述" type="complex">
+        <complex-values>
+            <field id="desc_module_user_mods" type="multiComplex">
+                <complex-values>
+                    <field id="desc_module_user_mod_name" type="input">
+                        <value>陌速顶1</value>
+                    </field>
+                    <field id="desc_module_user_mod_content" type="input">
+                        <value>&lt;div style="width:790.0px; margin-top:-1px;"&gt;&lt;img
+                            usemap="#2a829326-7d08-4059-863e-453ef7609a77"style="display:block"
+                            src="https://img.alicdn.com/imgextra/i4/3402409508/O1CN01INzNgA2K6iJCsnavb_!!3402409508.jpg"
+                            /&gt;&lt;map name="2a829326-7d08-4059-863e-453ef7609a77"&gt;&lt;area shape="rect"
+                            target="_blank" coords="160.0,127.0,596.0,284.0"
+                            href="https://detail.tmall.com/item.htm?id=591592566327&amp;spm=2015.24528051.0.0"&gt;&lt;/map&gt;&lt;/div&gt;
+                        </value>
+                    </field>
+                    <field id="desc_module_user_mod_order" type="input">
+                        <value>0</value>
+                    </field>
+                </complex-values>
+                <complex-values>
+                    <field id="desc_module_user_mod_name" type="input">
+                        <value>产品海报</value>
+                    </field>
+                    <field id="desc_module_user_mod_content" type="input">
+                        <value>&lt;div style="width:790.0px; margin-top:-1px;"&gt;&lt;img style="display:block"
+                            src="https://img.alicdn.com/imgextra/i4/3402409508/O1CN01pXGwpc2K6iJBsLnVe_!!3402409508.jpg"
+                            /&gt;&lt;img style="display:block"
+                            src="https://img.alicdn.com/imgextra/i3/3402409508/O1CN01CgrwV22K6iJEbZKoY_!!3402409508.jpg"
+                            /&gt;&lt;/div&gt;
+                        </value>
+                    </field>
+                    <field id="desc_module_user_mod_order" type="input">
+                        <value>1</value>
+                    </field>
+                </complex-values>
+                <complex-values>
+                    <field id="desc_module_user_mod_name" type="input">
+                        <value>商品信息</value>
+                    </field>
+                    <field id="desc_module_user_mod_content" type="input">
+                        <value>&lt;div style="width:790.0px; margin-top:-1px;"&gt;&lt;img style="display:block"
+                            src="https://img.alicdn.com/imgextra/i2/3402409508/O1CN01UeaZy52K6iJ9Ixjsg_!!3402409508.jpg"
+                            /&gt;&lt;img style="display:block"
+                            src="https://img.alicdn.com/imgextra/i3/3402409508/O1CN01iYbkSv2K6iJBF2cit_!!3402409508.jpg"
+                            /&gt;&lt;img style="display:block"
+                            src="https://img.alicdn.com/imgextra/i3/3402409508/O1CN01KMmBEY2K6iJBsO4sn_!!3402409508.jpg"
+                            /&gt;&lt;/div&gt;
+                        </value>
+                    </field>
+                    <field id="desc_module_user_mod_order" type="input">
+                        <value>2</value>
+                    </field>
+                </complex-values>
+            </field>
+        </complex-values>
+    </field>
+    <field id="inner_shop" name="页面模板-淘宝店铺" type="singleCheck">
+        <value/>
+    </field>
+    <field id="outer_shop" name="页面模板-官方网店" type="singleCheck">
+        <value/>
+    </field>
+    <field id="seller_cids" name="商品所属的店铺类目列表" type="multiCheck">
+        <values/>
+    </field>
+    <field id="delivery_way" name="提取方式" type="multiCheck">
+        <values>
+            <value>2</value>
+        </values>
+    </field>
+    <field id="freight_payer" name="运费承担方式" type="singleCheck">
+        <value>2</value>
+    </field>
+    <field id="freight_by_buyer" name="买家承担运费" type="singleCheck">
+        <value/>
+    </field>
+    <field id="freight" name="运费" type="complex">
+        <complex-values/>
+    </field>
+    <field id="postage_id" name="运费模板ID" type="input">
+        <value/>
+    </field>
+    <field id="locality_life.expirydate" name="有效期" type="singleCheck">
+        <value/>
+    </field>
+    <field id="locality_life.expirydate.startend" name="有效期按时间区间" type="complex">
+        <complex-values/>
+    </field>
+    <field id="locality_life.expirydate.end" name="有效期按购买日起时间区间" type="input">
+        <value/>
+    </field>
+    <field id="locality_life.expirydate.severalDays" name="有效期按购买日起有效天数区间" type="input">
+        <value/>
+    </field>
+    <field id="locality_life.network_id" name="网点id" type="input">
+        <value/>
+    </field>
+    <field id="locality_life.merchant" name="码商" type="complex">
+        <complex-values/>
+    </field>
+    <field id="auto_refund" name="自动退款" type="complex">
+        <complex-values/>
+    </field>
+    <field id="expired_refund" name="过期退款" type="complex">
+        <complex-values/>
+    </field>
+    <field id="locality_life.verification" name="核销打款" type="singleCheck">
+        <value/>
+    </field>
+    <field id="has_invoice" name="发票" type="singleCheck">
+        <value>true</value>
+    </field>
+    <field id="has_warranty" name="保修" type="singleCheck">
+        <value>false</value>
+    </field>
+    <field id="sell_promise" name="退换货服务" type="singleCheck">
+        <value>false</value>
+    </field>
+    <field id="sub_stock" name="拍下减库存" type="singleCheck">
+        <value>true</value>
+    </field>
+    <field id="location" name="所在地" type="complex">
+        <complex-values>
+            <field id="city" type="input">
+                <value>嘉兴</value>
+            </field>
+            <field id="prov" type="input">
+                <value>浙江</value>
+            </field>
+        </complex-values>
+    </field>
+    <field id="after_sale_id" name="售后说明模板ID" type="input">
+        <value/>
+    </field>
+    <field id="outer_id" name="商家外部编码" type="input">
+        <value>快麦-卫衣-陌测试</value>
+    </field>
+    <field id="has_discount" name="是否支持会员折扣" type="singleCheck">
+        <value>false</value>
+    </field>
+    <field id="second_kill" name="商品秒杀" type="multiCheck">
+        <values/>
+    </field>
+    <field id="size_measure_image" name="尺码测量示意图" type="singleCheck">
+        <value>https://img.alicdn.com/imgextra/i3/TB1vjOdHXXXXXXeXVXXXXXXXXXX_!!0-item_pic.jpg</value>
+    </field>
+    <field id="size_model_try" name="尺码模特试穿表" type="multiComplex"/>
+    <field id="item_size_weight" name="商品物流重量体积" type="complex">
+        <complex-values/>
+    </field>
+    <field id="auction_point" name="返点比例" type="input">
+        <value>0.5</value>
+    </field>
+    <field id="is_xinpin" name="是否新品" type="singleCheck">
+        <value>true</value>
+    </field>
+    <field id="is_taobao" name="是否在淘宝和天猫显示" type="singleCheck">
+        <value/>
+    </field>
+    <field id="is_ex" name="是否在外店显示" type="singleCheck">
+        <value/>
+    </field>
+    <field id="is_3D" name="是否是3D" type="singleCheck">
+        <value/>
+    </field>
+    <field id="service_version" name="天猫系统服务版本" type="input">
+        <value>11100</value>
+    </field>
+    <field id="prop_122276315" name="款式" type="singleCheck">
+        <value>103422</value>
+    </field>
+    <field id="prop_122216586" name="版型" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_122216586" name="版型" type="input">
+        <value/>
+    </field>
+    <field id="prop_20663" name="领型" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_20663" name="领型" type="input">
+        <value/>
+    </field>
+    <field id="prop_20608" name="风格" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_20608" name="风格" type="input">
+        <value/>
+    </field>
+    <field id="prop_20551" name="面料分类" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_20551" name="面料分类" type="input">
+        <value/>
+    </field>
+    <field id="prop_2917380" name="袖型" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_2917380" name="袖型" type="input">
+        <value/>
+    </field>
+    <field id="prop_20603" name="图案" type="singleCheck">
+        <value>46649</value>
+    </field>
+    <field id="in_prop_20603" name="图案" type="input">
+        <value/>
+    </field>
+    <field id="prop_122216345" name="适用季节" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_122216345" name="适用季节" type="input">
+        <value/>
+    </field>
+    <field id="prop_122216515" name="适用场景" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_122216515" name="适用场景" type="input">
+        <value/>
+    </field>
+    <field id="prop_122216608" name="适用对象" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_122216608" name="适用对象" type="input">
+        <value/>
+    </field>
+    <field id="prop_31611" name="衣门襟" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_31611" name="衣门襟" type="input">
+        <value/>
+    </field>
+    <field id="prop_122276336" name="服装口袋样式" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_122276336" name="服装口袋样式" type="input">
+        <value/>
+    </field>
+    <field id="prop_122216588" name="服装款式细节" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_122216588" name="服装款式细节" type="input">
+        <value/>
+    </field>
+    <field id="prop_122216507" name="厚薄" type="singleCheck">
+        <value/>
+    </field>
+    <field id="in_prop_122216507" name="厚薄" type="input">
+        <value/>
+    </field>
+    <field id="prop_42722636" name="基础风格" type="singleCheck">
+        <value>248572013</value>
+    </field>
+    <field id="prop_42718685" name="细分风格" type="singleCheck">
+        <value/>
+    </field>
+    <field id="prop_122216589" name="服饰工艺" type="singleCheck">
+        <value/>
+    </field>
+    <field id="prop_extend_1627207" name="颜色扩展" type="multiComplex">
+        <complex-values>
+            <field id="prop_image" type="input">
+                <value>https://img.alicdn.com/imgextra/i2/3402409508/O1CN01FpGdl42K6iJ4lBICs_!!3402409508.jpg</value>
+            </field>
+            <field id="basecolor" type="multiCheck">
+                <values>
+                    <value>28320</value>
+                </values>
+            </field>
+            <field id="in_prop_1627207" type="input">
+                <value>白色</value>
+            </field>
+        </complex-values>
+        <complex-values>
+            <field id="prop_image" type="input">
+                <value>https://img.alicdn.com/imgextra/i1/3402409508/O1CN012ejok32K6iJDO056y_!!3402409508.jpg</value>
+            </field>
+            <field id="basecolor" type="multiCheck">
+                <values>
+                    <value>28341</value>
+                </values>
+            </field>
+            <field id="in_prop_1627207" type="input">
+                <value>黑色</value>
+            </field>
+        </complex-values>
+    </field>
+    <field id="std_size_group" name="尺码分组" type="singleCheck">
+        <value>-1:自定义:-1</value>
+    </field>
+    <field id="std_size_extends_20509" name="尺码扩展" type="multiComplex">
+        <complex-values>
+            <field id="size_mapping_xiongwei" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_beikuan" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_xiabaiwei" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_qianchang" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_xiukou" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_tizhong" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_jiankuan" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_yichang" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_xiufei" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_lingshen" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_zhongyao" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_linggao" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_lingkuan" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_xiuchang" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_lingwei" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_shengao" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_-1" type="complex">
+                <complex-values>
+                    <field id="size_mapping_-1_value" type="input">
+                        <value>50</value>
+                    </field>
+                    <field id="size_mapping_-1_name" type="input">
+                        <value>ceshi</value>
+                    </field>
+                </complex-values>
+            </field>
+            <field id="size_mapping_baiwei" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_-4" type="complex">
+                <complex-values/>
+            </field>
+            <field id="std_size_prop_20509_-1" type="input">
+                <value>666</value>
+            </field>
+            <field id="size_mapping_-5" type="complex">
+                <complex-values/>
+            </field>
+            <field id="size_mapping_-2" type="complex">
+                <complex-values/>
+            </field>
+            <field id="size_mapping_yaowei" type="input">
+                <value>100</value>
+            </field>
+            <field id="size_mapping_-3" type="complex">
+                <complex-values/>
+            </field>
+        </complex-values>
+    </field>
+    <field id="size_mapping_template_id" name="尺码表填充模板ID" type="input">
+        <value/>
+    </field>
+    <field id="main_video" name="主图视频" type="complex">
+        <complex-values/>
+    </field>
+    <field id="sku" name="SKU" type="multiComplex">
+        <complex-values>
+            <field id="sku_ProductCode" type="input">
+                <value>快麦-卫衣-陌测试</value>
+            </field>
+            <field id="sku_MarketTime" type="input">
+                <value>2019-04-30</value>
+            </field>
+            <field id="sku_price" type="input">
+                <value>1000</value>
+            </field>
+            <field id="in_prop_1627207" type="input">
+                <value>白色</value>
+            </field>
+            <field id="std_size_prop_20509_-1" type="input">
+                <value>666</value>
+            </field>
+            <field id="sku_quantity" type="input">
+                <value>1</value>
+            </field>
+        </complex-values>
+        <complex-values>
+            <field id="sku_ProductCode" type="input">
+                <value>快麦-卫衣-陌测试</value>
+            </field>
+            <field id="sku_MarketTime" type="input">
+                <value>2019-04-30</value>
+            </field>
+            <field id="sku_price" type="input">
+                <value>1000</value>
+            </field>
+            <field id="in_prop_1627207" type="input">
+                <value>黑色</value>
+            </field>
+            <field id="std_size_prop_20509_-1" type="input">
+                <value>666</value>
+            </field>
+            <field id="sku_quantity" type="input">
+                <value>1</value>
+            </field>
+        </complex-values>
+    </field>
+    <field id="three_to_four_item_images" name="3:4商品图片" type="complex">
+        <complex-values/>
+    </field>
+    <field id="image_video_type" name="主图视频比例" type="singleCheck">
+        <value/>
+    </field>
+    <field id="barcode" name="条形码" type="input">
+        <value/>
+    </field>
+    <field id="item_status" name="商品状态" type="singleCheck">
+        <value>2</value>
+    </field>
+    <field id="start_time" name="开始时间" type="input">
+        <value/>
+    </field>
+    <field id="wireless_desc" name="旺铺无线详情描述" type="complex">
+        <complex-values/>
+    </field>
+    <field id="title" name="商品标题" type="input">
+        <value>快麦-卫衣-陌测试</value>
+    </field>
+</itemParam>

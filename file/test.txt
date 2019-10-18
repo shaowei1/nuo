@@ -1,0 +1,1 @@
+RestApi.__init__(self, domain, port)
